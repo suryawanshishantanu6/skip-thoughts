@@ -24,8 +24,8 @@ path_to_models = '/content/'
 path_to_tables = '/content/'
 #-----------------------------------------------------------------------------#
 
-path_to_umodel = path_to_models + 'uni_skip.npz'
-path_to_bmodel = path_to_models + 'bi_skip.npz'
+path_to_umodel = '/content/uni_skip.npz'
+path_to_bmodel = '/content/bi_skip.npz'
 
 
 def load_model():
